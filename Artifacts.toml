@@ -1,0 +1,113 @@
+[[s3gof3r]]
+arch = "aarch64"
+git-tree-sha1 = "a342cc7e3c7e1215059d063f9a6883544656a6dc"
+libc = "musl"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "d19303fcfeb4c00aae83dee1e3bef03716966d03d31c8a36894374e402485b56"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.aarch64-linux-musl.tar.gz"
+[[s3gof3r]]
+arch = "i686"
+git-tree-sha1 = "169a539beceb4b2547a7097d5310467572290327"
+os = "windows"
+
+    [[s3gof3r.download]]
+    sha256 = "da07f22b1f91a078eb935724ae287726e164c8954b6c3604ab9d5dcf70d03ab1"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.i686-w64-mingw32.tar.gz"
+[[s3gof3r]]
+arch = "x86_64"
+git-tree-sha1 = "9f969ad6f244eba7229d95f69274fdb6de94d095"
+libc = "musl"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "9bc0e3fa7abef65579e880da033e2edc8bc6942ea38f9a25f60eb62b08bd2c51"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.x86_64-linux-musl.tar.gz"
+[[s3gof3r]]
+arch = "i686"
+git-tree-sha1 = "2fcf3b451ac607069fc17db5c145314a043ece14"
+libc = "glibc"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "6a982bb4125d1a00036494268b91d50b45395ed92d5e53b13c64b77be48e175a"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.i686-linux-gnu.tar.gz"
+[[s3gof3r]]
+arch = "armv7l"
+git-tree-sha1 = "a776700a9dfcd391f2eabe8575800bc186da4ae1"
+libc = "glibc"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "6c922cd93002545549d978ea99097c40459da1f6d14629896019556a452c1c86"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.armv7l-linux-gnueabihf.tar.gz"
+[[s3gof3r]]
+arch = "aarch64"
+git-tree-sha1 = "c68ec3f638920b313d3b0e9d9cdf256fb25a8abc"
+libc = "glibc"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "2741e044ddcd265467de24d0d5c55b2a8811e16678c9fd29fb23dfb1344c573c"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.aarch64-linux-gnu.tar.gz"
+[[s3gof3r]]
+arch = "x86_64"
+git-tree-sha1 = "8dab26024d99ee6968a9750eacb476e1a37b91c7"
+libc = "glibc"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "200fb8d55379219994d65a52bcb21e4b146b10ef4735d81e396c0b5c1debce1e"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.x86_64-linux-gnu.tar.gz"
+[[s3gof3r]]
+arch = "powerpc64le"
+git-tree-sha1 = "e0cc60a660d4caf849276fb60a48374e0b37d9c1"
+libc = "glibc"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "250bc368ae90dffa00ef26d2c2a1b5d236c68b441bedd15117b72265f682c78b"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.powerpc64le-linux-gnu.tar.gz"
+[[s3gof3r]]
+arch = "x86_64"
+git-tree-sha1 = "ece7c39d02c0f414a3c53579bc5d26b94fe40eeb"
+os = "macos"
+
+    [[s3gof3r.download]]
+    sha256 = "d7219d3274741153797a416657d6d0d9cdac363436aa3da163c44edec287593d"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.x86_64-apple-darwin14.tar.gz"
+[[s3gof3r]]
+arch = "x86_64"
+git-tree-sha1 = "014cf7cd776fdbc16df74844bacb24766fdcca76"
+os = "freebsd"
+
+    [[s3gof3r.download]]
+    sha256 = "45dda10a0d16c33de5255aaf52efd2cefe790bbaa67a08abe1debd24bafe2a82"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[s3gof3r]]
+arch = "i686"
+git-tree-sha1 = "976c6a50081e05b5fe69f333807487207284ebe3"
+libc = "musl"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "2e29b89ad2524c7baaf69ae3968269db2cd0a001eda171cd6d10f3ede059fba7"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.i686-linux-musl.tar.gz"
+[[s3gof3r]]
+arch = "armv7l"
+git-tree-sha1 = "d8160fcb296d6f0c796667c407b9faf76b40ca19"
+libc = "musl"
+os = "linux"
+
+    [[s3gof3r.download]]
+    sha256 = "a56326895fda48f3a3b0fe57660170de2d276c160915a168afb2f625760e07a4"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.armv7l-linux-musleabihf.tar.gz"
+[[s3gof3r]]
+arch = "x86_64"
+git-tree-sha1 = "338d4bbcf30932ab5858e4a1dd066b068ff5078c"
+os = "windows"
+
+    [[s3gof3r.download]]
+    sha256 = "c20af370af01ca81d20257fdba4c268891dd841b3531646b60bd096e5299eb66"
+    url = "https://github.com/JuliaBinaryWrappers/s3gof3r_jll.jl/releases/download/s3gof3r-v0.5.0+0/s3gof3r.v0.5.0.x86_64-w64-mingw32.tar.gz"
